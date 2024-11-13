@@ -12,5 +12,4 @@ public class BookVO {
 	private String title;
 	private String author;
 	private int storeId;
-	
 }
